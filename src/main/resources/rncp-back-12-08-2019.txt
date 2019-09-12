@@ -1,0 +1,16 @@
+Template : https://github.com/Frank-readresolve/masterpiece/wiki
+
+1. Repo github nu (private => ajouter Quentin et Frank en collaborateurs)
+2. Initialiser et alimenter un wiki avec les principales features :
+2.1 project-resources
+2.2 Pitch
+2.3 Personae
+2.4 Main features
+2.5 Epics/Issues priorisées et spécifiées
+2.6 Inclure création de compte (wireframe / mockup PC + smartphone) langue cohérente / users
+3. Initialiser un projet "dashboard"
+
+Objectifs pour le mois prochain :
+- Initialiser le projet back (dont la bdd)
+- Conception objet/relationnelle (CRC, diagramme de classe, diagramme de séquences, E/R)
+- Implémentation en Spring
